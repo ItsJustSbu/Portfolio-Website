@@ -1,3 +1,11 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Joan&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+  font-family: 'Roboto', serif;
+}
+
+
 /* Color of the links BEFORE scroll */
 .navbar-scroll .nav-link,
 .navbar-scroll .navbar-toggler-icon,
@@ -40,3 +48,27 @@
     text-align: center;
 }
 
+#experience{
+  text-align: center;
+}
+
+.skills-heading{
+  margin-top: 6%;
+  margin-bottom: 6%;
+  text-align: center;
+
+
+}
+
+.card{
+  text-align: center;
+}
+
+#card-icon{
+  margin: 8%;
+  color:  rgb(1, 1, 110);
+}
+
+#experience-container{
+  margin-top: 2%;
+}
